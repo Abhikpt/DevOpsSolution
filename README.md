@@ -1,8 +1,3 @@
-Here's a well-structured `README.md` in Markdown format for your **Blazor E-Commerce Website DevOps Practice Project**—ready to paste into your GitHub repository:
-
----
-
-```markdown
 # 🛒 Blazor E-Commerce Website – DevOps Practice Project
 
 A full-featured e-commerce web application built using **Blazor WebAssembly** and **ASP.NET Core**, designed as a **learning project** to gain practical experience in **web development** and **DevOps workflows**.
