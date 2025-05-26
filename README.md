@@ -1,4 +1,4 @@
-# 🛒 Blazor E-Commerce Website – DevOps Practice Project
+# 🛒 DevOps Practice Blazor Project
 
 A full-featured e-commerce web application built using **Blazor WebAssembly** and **ASP.NET Core**, designed as a **learning project** to gain practical experience in **web development** and **DevOps workflows**.
 
@@ -6,7 +6,7 @@ A full-featured e-commerce web application built using **Blazor WebAssembly** an
 
 ## 📌 Project Overview
 
-- **Project Name:** Blazor E-Commerce Website  
+- **Project Name:** DevOps Practice Blazor Project 
 - **Purpose:** Learn end-to-end web development and DevOps practices  
 - **Current Phase:** 🚧 Development & Testing  
 
@@ -89,12 +89,9 @@ This project is a hands-on DevOps lab that combines **full-stack development** w
 ## 📂 Project Structure (Coming Soon)
 ```
 
-MyBlazorEcommerce/
-├── Client/        # Blazor WebAssembly front-end
-├── Server/        # ASP.NET Core backend API
-├── Shared/        # Shared models between Client and Server
-├── Tests/         # Unit and UI tests
-└── README.md
+DevOpsSolution/
+            ├── WebApplication/        # Blazor WebAssembly front-end
+            └── README.md
 
 ```
 
