@@ -199,8 +199,6 @@ C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwro
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.69wknkil2z.wasm
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.gkgxk99utf.wasm
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.p77fb7ls9l.wasm
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.cph59ov23n.pdb
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.1x1krkiz3d.wasm
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.pe1q66fox7.wasm
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.qfj5950lp1.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlDocument.obea1y0o4e.wasm.gz
@@ -214,7 +212,6 @@ C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwro
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Data.zn919kbv52.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Linq.zqotd0pp5c.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.0t6hu68uix.wasm.gz
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.cph59ov23n.pdb.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.zuba91cmsq.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.yssxj4mc04.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.Json.fsk5apfw1y.wasm.gz
@@ -340,7 +337,6 @@ C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwro
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Xml.0jwn7dp9nd.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.zh8vki7uno.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.IO.Pipes.tqouqgzazg.wasm.gz
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.1x1krkiz3d.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.StackTrace.r4u6i8kfog.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.qx19rhlhxw.wasm.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.h6ioronled.wasm.gz
@@ -1064,9 +1060,6 @@ C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compr
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\8b1dve00h1-tjcz0u77k5.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\xkircm0jtg-tptq2av103.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\kez1fv5cpk-lfu7j35m59.gz
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\ogv3rayd04-1x1krkiz3d.gz
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\1o4at5s46w-cph59ov23n.gz
-C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\84og1ejp36-v544ghhfar.gz
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\staticwebassets.build.json
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\staticwebassets.development.json
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1081,3 +1074,11 @@ C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\WebAp
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\refint\WebApplication.dll
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\WebApplication.pdb
 C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\ref\WebApplication.dll
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.6oq68ox12j.pdb
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.88oqxr0kyf.wasm
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.6oq68ox12j.pdb.gz
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\bin\Debug\net9.0\wwwroot\_framework\WebApplication.88oqxr0kyf.wasm.gz
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\WebApplication.sourcelink.json
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\ogv3rayd04-88oqxr0kyf.gz
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\1o4at5s46w-6oq68ox12j.gz
+C:\ProjectWorkspace\Website\DevOpsSolution\WebApplication\obj\Debug\net9.0\compressed\84og1ejp36-hehfziui7t.gz

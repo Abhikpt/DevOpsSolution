@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/ldBjZDcuwsIiP8e8wUPkWrACAR4/4vJ2SjDCMjddzU=",
+  "Hash": "hbg01F7hrse2HAJ663sYmQVo5yo7uTL6EjcKZlMQdJ4=",
   "Source": "WebApplication",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "v544ghhfar",
-      "Integrity": "7U3CdKFBDZSQlCbayzuKaoNF3I9DRyEepbTkD7Y4LOA=",
+      "Fingerprint": "hehfziui7t",
+      "Integrity": "2fCqNhCy0bNKKpilmq7JRBdm5zQuVciQtI4ggE/OKYg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -4252,8 +4252,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "cph59ov23n",
-      "Integrity": "4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8=",
+      "Fingerprint": "6oq68ox12j",
+      "Integrity": "envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\WebApplication.pdb"
@@ -4273,8 +4273,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1x1krkiz3d",
-      "Integrity": "tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw=",
+      "Fingerprint": "88oqxr0kyf",
+      "Integrity": "2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\webcil\\WebApplication.wasm"
@@ -4616,12 +4616,12 @@
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-cph59ov23n.gz",
+      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-6oq68ox12j.gz",
       "SourceId": "WebApplication",
       "SourceType": "Computed",
       "ContentRoot": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/WebApplication#[.{fingerprint=cph59ov23n}]!.pdb.gz",
+      "RelativePath": "_framework/WebApplication#[.{fingerprint=6oq68ox12j}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4630,8 +4630,8 @@
       "RelatedAsset": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7v038z8vy7",
-      "Integrity": "3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I=",
+      "Fingerprint": "i3syu00u82",
+      "Integrity": "viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.pdb"
@@ -5477,7 +5477,7 @@
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm"
     },
     {
-      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-v544ghhfar.gz",
+      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-hehfziui7t.gz",
       "SourceId": "WebApplication",
       "SourceType": "Computed",
       "ContentRoot": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\",
@@ -5491,8 +5491,8 @@
       "RelatedAsset": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qcypq2zf03",
-      "Integrity": "KgyjHxzelSVBcS2fKfe1iTKQr9vovxgFj34JBQ8PfGE=",
+      "Fingerprint": "92146rq4fs",
+      "Integrity": "YZB7J4rmtX9hUDdrGxW9y0ElKh2c0bAw7bkxWWWmaOE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8018,12 +8018,12 @@
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-1x1krkiz3d.gz",
+      "Identity": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-88oqxr0kyf.gz",
       "SourceId": "WebApplication",
       "SourceType": "Computed",
       "ContentRoot": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/WebApplication#[.{fingerprint=1x1krkiz3d}]!.wasm.gz",
+      "RelativePath": "_framework/WebApplication#[.{fingerprint=88oqxr0kyf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8032,8 +8032,8 @@
       "RelatedAsset": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ys2nqt0m24",
-      "Integrity": "8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU=",
+      "Fingerprint": "dtj5xvzlih",
+      "Integrity": "kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.wasm"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7U3CdKFBDZSQlCbayzuKaoNF3I9DRyEepbTkD7Y4LOA=\""
+          "Value": "\"2fCqNhCy0bNKKpilmq7JRBdm5zQuVciQtI4ggE/OKYg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:48:24 GMT"
+          "Value": "Tue, 27 May 2025 18:02:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,13 +10719,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7U3CdKFBDZSQlCbayzuKaoNF3I9DRyEepbTkD7Y4LOA="
+          "Value": "sha256-2fCqNhCy0bNKKpilmq7JRBdm5zQuVciQtI4ggE/OKYg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-v544ghhfar.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-hehfziui7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10744,11 +10744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KgyjHxzelSVBcS2fKfe1iTKQr9vovxgFj34JBQ8PfGE=\""
+          "Value": "\"YZB7J4rmtX9hUDdrGxW9y0ElKh2c0bAw7bkxWWWmaOE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:10 GMT"
+          "Value": "Tue, 27 May 2025 18:02:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7U3CdKFBDZSQlCbayzuKaoNF3I9DRyEepbTkD7Y4LOA=\""
+          "Value": "W/\"2fCqNhCy0bNKKpilmq7JRBdm5zQuVciQtI4ggE/OKYg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7U3CdKFBDZSQlCbayzuKaoNF3I9DRyEepbTkD7Y4LOA="
+          "Value": "sha256-2fCqNhCy0bNKKpilmq7JRBdm5zQuVciQtI4ggE/OKYg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-v544ghhfar.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\84og1ejp36-hehfziui7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KgyjHxzelSVBcS2fKfe1iTKQr9vovxgFj34JBQ8PfGE=\""
+          "Value": "\"YZB7J4rmtX9hUDdrGxW9y0ElKh2c0bAw7bkxWWWmaOE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:10 GMT"
+          "Value": "Tue, 27 May 2025 18:02:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KgyjHxzelSVBcS2fKfe1iTKQr9vovxgFj34JBQ8PfGE="
+          "Value": "sha256-YZB7J4rmtX9hUDdrGxW9y0ElKh2c0bAw7bkxWWWmaOE="
         }
       ]
     },
@@ -70263,168 +70263,7 @@
       ]
     },
     {
-      "Route": "_framework/WebApplication.1x1krkiz3d.wasm",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17685"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1x1krkiz3d"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApplication.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApplication.1x1krkiz3d.wasm",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-1x1krkiz3d.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000129752173"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7706"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1x1krkiz3d"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApplication.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApplication.1x1krkiz3d.wasm.gz",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-1x1krkiz3d.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7706"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1x1krkiz3d"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApplication.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApplication.cph59ov23n.pdb",
+      "Route": "_framework/WebApplication.6oq68ox12j.pdb",
       "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70434,7 +70273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23416"
+          "Value": "23604"
         },
         {
           "Name": "Content-Type",
@@ -70442,11 +70281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8=\""
+          "Value": "\"envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:08 GMT"
+          "Value": "Tue, 27 May 2025 18:02:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70456,7 +70295,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cph59ov23n"
+          "Value": "6oq68ox12j"
         },
         {
           "Name": "label",
@@ -70464,18 +70303,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8="
+          "Value": "sha256-envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs="
         }
       ]
     },
     {
-      "Route": "_framework/WebApplication.cph59ov23n.pdb",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-cph59ov23n.gz",
+      "Route": "_framework/WebApplication.6oq68ox12j.pdb",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-6oq68ox12j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058782036"
+          "Quality": "0.000058322641"
         }
       ],
       "ResponseHeaders": [
@@ -70485,15 +70324,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17011"
+          "Value": "17145"
         },
         {
           "Name": "ETag",
-          "Value": "\"3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I=\""
+          "Value": "\"viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70513,13 +70352,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8=\""
+          "Value": "W/\"envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cph59ov23n"
+          "Value": "6oq68ox12j"
         },
         {
           "Name": "label",
@@ -70527,13 +70366,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8="
+          "Value": "sha256-envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs="
         }
       ]
     },
     {
-      "Route": "_framework/WebApplication.cph59ov23n.pdb.gz",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-cph59ov23n.gz",
+      "Route": "_framework/WebApplication.6oq68ox12j.pdb.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-6oq68ox12j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70542,7 +70381,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17011"
+          "Value": "17145"
         },
         {
           "Name": "Content-Type",
@@ -70550,11 +70389,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I=\""
+          "Value": "\"viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70572,7 +70411,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cph59ov23n"
+          "Value": "6oq68ox12j"
         },
         {
           "Name": "label",
@@ -70580,7 +70419,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I="
+          "Value": "sha256-viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApplication.88oqxr0kyf.wasm",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApplication.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:02:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88oqxr0kyf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApplication.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApplication.88oqxr0kyf.wasm",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-88oqxr0kyf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000128188694"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7800"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88oqxr0kyf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApplication.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApplication.88oqxr0kyf.wasm.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-88oqxr0kyf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88oqxr0kyf"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApplication.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA="
         }
       ]
     },
@@ -70595,7 +70595,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23416"
+          "Value": "23604"
         },
         {
           "Name": "Content-Type",
@@ -70603,11 +70603,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8=\""
+          "Value": "\"envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:08 GMT"
+          "Value": "Tue, 27 May 2025 18:02:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70617,18 +70617,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8="
+          "Value": "sha256-envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs="
         }
       ]
     },
     {
       "Route": "_framework/WebApplication.pdb",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-cph59ov23n.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-6oq68ox12j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058782036"
+          "Quality": "0.000058322641"
         }
       ],
       "ResponseHeaders": [
@@ -70638,15 +70638,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17011"
+          "Value": "17145"
         },
         {
           "Name": "ETag",
-          "Value": "\"3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I=\""
+          "Value": "\"viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70666,19 +70666,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8=\""
+          "Value": "W/\"envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4GGohyRoNZN3nSgBIxjOSKP9GKS6ApwNDHZId8QGfH8="
+          "Value": "sha256-envBcSLzQlKxxm1gVBuI+D45TcZo0rIQmbQnIh/HGOs="
         }
       ]
     },
     {
       "Route": "_framework/WebApplication.pdb.gz",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-cph59ov23n.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\1o4at5s46w-6oq68ox12j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70687,7 +70687,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17011"
+          "Value": "17145"
         },
         {
           "Name": "Content-Type",
@@ -70695,11 +70695,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I=\""
+          "Value": "\"viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70717,7 +70717,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3SRMmjlA1bPg4q2d2ORwoRy2itbX0bHjRHgTcvzYc4I="
+          "Value": "sha256-viAlozXLEeNcCm/fsO+neq6qyJWXHT3+64qIsXPmPmM="
         }
       ]
     },
@@ -70740,11 +70740,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw=\""
+          "Value": "\"2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:09 GMT"
+          "Value": "Tue, 27 May 2025 18:02:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70754,18 +70754,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw="
+          "Value": "sha256-2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw="
         }
       ]
     },
     {
       "Route": "_framework/WebApplication.wasm",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-1x1krkiz3d.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-88oqxr0kyf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129752173"
+          "Quality": "0.000128188694"
         }
       ],
       "ResponseHeaders": [
@@ -70775,15 +70775,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7706"
+          "Value": "7800"
         },
         {
           "Name": "ETag",
-          "Value": "\"8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU=\""
+          "Value": "\"kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70803,19 +70803,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw=\""
+          "Value": "W/\"2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tfHPjqni8rcAY1acvSA3FXI4gsXVOJ0XUgFF3pAI0Sw="
+          "Value": "sha256-2PV0vBkre8uIMEIlSWETBlcYAPmDflZlt/5l4KiHWTw="
         }
       ]
     },
     {
       "Route": "_framework/WebApplication.wasm.gz",
-      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-1x1krkiz3d.gz",
+      "AssetFile": "C:\\ProjectWorkspace\\Website\\DevOpsSolution\\WebApplication\\obj\\Debug\\net9.0\\compressed\\ogv3rayd04-88oqxr0kyf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70824,7 +70824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7706"
+          "Value": "7800"
         },
         {
           "Name": "Content-Type",
@@ -70832,11 +70832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU=\""
+          "Value": "\"kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 05:47:11 GMT"
+          "Value": "Tue, 27 May 2025 18:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70854,7 +70854,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ts6FkUMwCx5xGrhFuwBbgkLilxY2F5rqbjRcQTvMdU="
+          "Value": "sha256-kQBMSg3yxmQv+dyNi0VxdxHb0lv3rU1GrBqyLb9wvjA="
         }
       ]
     },
