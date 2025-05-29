@@ -1,0 +1,61 @@
+pipeline {
+    agent any
+
+    environment {
+        DOTNET_VERSION = '8.0.x'
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+        stage('Setup .NET SDK') {
+            steps {
+                script {
+                    def dotnetHome = tool name: "dotnet-sdk-${env.DOTNET_VERSION}", type: 'dotnet'
+                    env.PATH = "${dotnetHome}/bin:${env.PATH}"
+                }
+            }
+        }
+        stage('Restore') {
+            steps {
+                sh 'dotnet restore'
+            }
+        }
+
+
+        stage('Build') {
+            steps {
+                sh 'dotnet build --configuration Release --no-restore'
+            }
+        }
+
+
+        stage('Test') {
+            steps {
+                sh 'dotnet test --no-build --verbosity normal'
+            }
+        }
+
+
+        stage('Publish') {
+            steps {
+                sh 'dotnet publish -c Release -o published'
+            }
+        }
+        // Add deployment steps here if needed
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: 'published/**', fingerprint: true
+        }
+        failure {
+            mail to: 'abhishekcpj@outlook.com',
+                 subject: "Jenkins Build Failed: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+                 body: "Check Jenkins for details."
+        }
+    }
+}
