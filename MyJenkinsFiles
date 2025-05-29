@@ -50,7 +50,7 @@ pipeline {
 
         stage('Publish') {
             steps {
-                bat 'dotnet publish -c Release -o published'
+                bat 'dotnet publish WebApplication/WebApplication.csproj -c Release -o published'
             }
         }
         // Add deployment steps here if needed
