@@ -26,6 +26,13 @@ pipeline {
             }
         }
 
+         stage('Install Workloads') {
+            steps {
+                bat 'dotnet workload install wasm-tools'   
+                // necessary when building or publishing Blazor WebAssembly projects
+            }
+        }
+
 
         stage('Build') {
             steps {
